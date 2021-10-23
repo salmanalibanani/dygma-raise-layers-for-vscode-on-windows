@@ -13,5 +13,3 @@ Some ground rules:
 * When you push changes to a layer, please update the corresponding screenshot as well. 
 
 * I would appreciate if in your PR you could explain the rationale.  It'll be good to understand the reasoning why a certain idea could work better.
-
-s
