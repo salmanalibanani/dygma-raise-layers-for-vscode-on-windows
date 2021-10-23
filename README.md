@@ -6,7 +6,7 @@ Some ground rules:
 
 * This is just a start.  Not much is in there at the moment.
 
-* Keep the number of layers to a minimum.  Three layers max.  Two would be even better.
+* Keep the number of layers to a minimum.  **Three layers max**.  Two would be even better.
 
 * Should work well with default out-of-the-box experience of VSCode.  No VIM extension!
 
