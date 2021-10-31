@@ -13,8 +13,8 @@
   ],
   "keymap": [
     {
-      "keyCode": 53,
-      "label": "`"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 30,
