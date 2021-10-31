@@ -301,9 +301,9 @@
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 42,
-      "label": "BACKSPACE",
-      "verbose": "Backspace"
+      "keyCode": 24579,
+      "label": "3",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 44,
@@ -395,8 +395,8 @@
     4,
     4,
     4,
-    8,
-    8,
+    0,
+    0,
     8,
     8,
     8,
