@@ -3,7 +3,7 @@
     "Base",
     "Function",
     "Numpad",
-    "three",
+    "Text",
     "four",
     "five",
     "six",
@@ -330,9 +330,9 @@
       "extraLabel": "SHIFTTO"
     },
     {
-      "keyCode": 227,
-      "label": "LEFT WIN",
-      "verbose": "Left Windows"
+      "keyCode": 17453,
+      "label": "3",
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 44,
